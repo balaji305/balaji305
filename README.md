@@ -1,8 +1,8 @@
 # Hey Everyone 😁 
--I'm Balaji 👋
--I'm currently pursuing Information Technology at Anna University.👨‍💻
--Fun fact: I listen to music and play a ton of chess.
--Learning Web Devlopement,
+ - I'm Balaji 👋
+ - I'm currently pursuing Information Technology at Anna University.👨‍💻
+ - Fun fact: I listen to music and play a ton of chess.
+ - Learning Web Devlopement,
 
 ### Connect with me:
 

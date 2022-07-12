@@ -4,7 +4,16 @@
  - Fun fact: I listen to music and play a ton of chess.
  - Learning Web Devlopement,
 
-### Connect with me:
+### Stats:
+
+<a href="https://github.com/bala418#js-contribution-activity">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=balaji305&theme=tokyonight&count_private=true&show_icons=true&include_all_commits=true" width=57%/>
+</a>
+
+
+<a href="https://github.com/search?q=author:bala418">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balaji305&theme=tokyonight&layout=compact&langs_count=8" width=41.5%/>
+</a>
 
 ### Languages and Tools:
 
@@ -19,3 +28,5 @@
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
+
+

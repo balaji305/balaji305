@@ -2,7 +2,7 @@
  - I'm Balaji 👋
  - I'm currently pursuing Masters of Computer Science @North Carolina State University.👨‍💻
  - Fun fact: I listen to music and play a ton of chess.
- - Interested in Software Developement
+ - Interested in Software Developement & Data Science
 
 ### Stats:
 

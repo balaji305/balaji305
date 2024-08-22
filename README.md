@@ -5,15 +5,17 @@
  - Learning Web Devlopement,
 
 ### Stats:
-
+<div>
 <a href="https://github.com/balaji305#js-contribution-activity">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=balaji305&theme=tokyonight&count_private=true&show_icons=true&include_all_commits=true" width=57%/>
 </a>
+</div>
 
-
+<div>
 <a href="https://github.com/search?q=author:balaji305">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balaji305&theme=tokyonight&layout=compact&langs_count=8" width=41.5%/>
 </a>
+</div>
 
 ### Languages and Tools:
 

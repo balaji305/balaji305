@@ -1,15 +1,10 @@
 # Hey Everyone 😁 
  - I'm Balaji 👋
- - I'm currently pursuing Information Technology at Anna University.👨‍💻
+ - I'm currently pursuing Masters of Computer Science @North Carolina State University.👨‍💻
  - Fun fact: I listen to music and play a ton of chess.
- - Learning Web Devlopement,
+ - Interested in Software Developement
 
 ### Stats:
-<div>
-<a href="https://github.com/balaji305#js-contribution-activity">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=balaji305&theme=tokyonight&count_private=true&show_icons=true&include_all_commits=true" width=57%/>
-</a>
-</div>
 
 <div>
 <a href="https://github.com/search?q=author:balaji305">
